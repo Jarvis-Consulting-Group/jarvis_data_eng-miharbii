@@ -17,7 +17,7 @@ Follow the steps below to quickly get started with the Linux Cluster Monitoring 
 I set up a PSQL instance with a Docker container and created tables to store hardware specs and resource usage data using SQL scripts. I then used Bash scripts, host_info.sh and host_usage.sh, to collect the data and persist it to the PSQL instance. Finally, I automated the process with crontab.
 
 ## Architecture
-
+![architecture](./linux_architecture.png)
 ## Scripts
 - **psql_docker.sh**
 </br> The SQL statements within this script are used to create two tables, host_info and host_usage, in a PostgreSQL database. These tables are designed to store hardware information and resource usage data.
