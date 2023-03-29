@@ -1,0 +1,136 @@
+# Preferred name (Characters only)
+name: "Ibrahim Fradj"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-miharbii
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I have a degree in Computer Engineering from Polytechnique Montreal, with a focus on management tools. During my studies, I worked on various projects in web development and embedded systems. I had the opportunity to complete two internships, one as a developer and Scrum Master at Ericsson, and the other as a full-stack developer at Orsima. I discovered my passion for programming during my studies and was amazed by how code could bring ideas to life and solve real problems.What excites me about the software industry is its constant evolution to meet changing user and business needs. I'm drawn to the industry because of the opportunity to create innovative solutions that can improve people's lives and solve complex problems. I'm a strong advocate for online learning and continuously take courses and tutorials to improve my technical skills and stay up-to-date with current trends.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+    - Python
+    - TypeScript/javascript
+    - Algorithms and Data Structures
+  # At least 5 skills
+  competent:
+    - C/C++
+    - IntelliJ
+    - MVC Design Pattern
+    - Docker
+    - Jira
+    - Visual Studio Code
+    - Angular
+    - React Native
+  # At least 5 skills
+  familiar:
+    - NodeJS
+    - MongoDB
+    - Jira
+    - Computer Networks
+    - Android Studio
+    - Verilog HDL
+    - HTML
+    - LaTex
+    - nml
+    - R
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    description: "Developed and deployed the Linux Cluster Monitoring Agent to efficiently collect and analyze real-time data on hardware and resource usage of nodes in a cluster.Utilized Bash and SQL scripting to gather relevant system data and store it in a PostgreSQL database for further analysis and use by the cluster administration team.Provided valuable insights to the team to optimize system efficiency and productivity by identifying potential issues and bottlenecks.Demonstrated proficiency in technologies such as Docker, IntelliJ IDEA, and crontab to automate processes and ensure scalability for large clusters.Contributed to the successful management and optimization of the cluster by leveraging the Linux Cluster Monitoring Agent's capabilities."
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Plugin Visual Studio Code extension"
+    #URL is optional
+    git_url: 
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: The project involved creating a Visual Studio Code extension using TypeScript, Java, HTML, and CSS to improve the visualization of source code performance with Trace Compass. As the team manager, I was responsible for overseeing a team of five members, managing project constraints and risks, handling changes in requirements, and addressing the departure of a team member. In addition, I liaised with the client to ensure that their expectations were met, and I also studied the existing code in the Trace Compass server to integrate the necessary code and create the required Visual Studio extension.
+  - name: "Swarm of exploration drones"
+    git_url:
+    description: I worked on a project to design a swarm of explorer drones to map a building. As part of a six-person team, I used my TypeScript, HTML, SCSS, Angular, C, and C++ skills to create efficient drones and develop an exploration algorithm. I also created a web application that communicated with the drones using commands and displayed a map of the explored room in real time. This project allowed me to develop my problem solving and complex software design skills.
+  - name: "Web drawing application"
+    git_url:
+    description: I used my expertise in TypeScript, HTML, SCSS, Angular, and design patterns to develop Poly Dessin, a web application for drawing shapes. Working with my team, we created a database and tested all functionalities. 
+  - name: "Design and Realization of an Autonomous Robot"
+    git_url:
+    description: I designed and assembled a robot using my knowledge of C++, Linux, and object-oriented programming. I studied the components of the robot, including the motherboard, expansion board, and Atmega324, and programmed the processor and H-bridge to keep the robot running. I then presented the project, the methods used and the different steps to a panel of judges.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2023-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+  - title: "Intern Developer"
+    company: "ERICSSON"
+    duration: "2021"
+    description: "I worked as a developer and Scrum master for an open-source project, Theia Trace Extension, with a team of six engineers. I gained hands-on experience with Java, Python, and TypeScript while overseeing progress and coordinating efforts across several projects during four sprints. I resolved 15 issues in Theia Trace Extension, performed manual testing and code reviews, and improved user experience. I participated in meetings with international colleagues and clients and analyzed team performance to provide recommendations for improvement based on the St. Charles and Mongeau model."
+  - title: "Full Stack Intern"
+    company: "ORSIMA"
+    duration: "2020"
+    description: "I designed and developed an application to manage training within the company, including creating a database, scheduling sessions, and using UML design patterns. I developed the client and server side, ensuring quality and proper functioning of the connected website."
+
+
+#List of edcuation
+education: 
+  - school_name: "Polytechnique of Montreal"
+    duration: "2017-2022"
+    degree: "Bachelor in computer engineering"
+    department: "Electrical and Computer Engineering"
+    # optional
+    awards_achievements: 
+      - "THEMATIC DIRECTIONS - Management Tools"
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Udacity Machine Learning (2019)"
+  - title: "Awards"
+    bullets:
+      - "Winner"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Soccer player"
+      - "Competitive gaming"
+      - "Read books"

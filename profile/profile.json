@@ -1,0 +1,155 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "THEMATIC DIRECTIONS - Management Tools"
+      ],
+      "degree": "Bachelor in computer engineering",
+      "department": "Electrical and Computer Engineering",
+      "duration": "2017-2022",
+      "school_name": "Polytechnique of Montreal"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-miharbii",
+  "highlighted_projects": [
+    {
+      "description": "The project involved creating a Visual Studio Code extension using TypeScript, Java, HTML, and CSS to improve the visualization of source code performance with Trace Compass. As the team manager, I was responsible for overseeing a team of five members, managing project constraints and risks, handling changes in requirements, and addressing the departure of a team member. In addition, I liaised with the client to ensure that their expectations were met, and I also studied the existing code in the Trace Compass server to integrate the necessary code and create the required Visual Studio extension.",
+      "git_url": null,
+      "name": "Plugin Visual Studio Code extension"
+    },
+    {
+      "description": "I worked on a project to design a swarm of explorer drones to map a building. As part of a six-person team, I used my TypeScript, HTML, SCSS, Angular, C, and C++ skills to create efficient drones and develop an exploration algorithm. I also created a web application that communicated with the drones using commands and displayed a map of the explored room in real time. This project allowed me to develop my problem solving and complex software design skills.",
+      "git_url": null,
+      "name": "Swarm of exploration drones"
+    },
+    {
+      "description": "I used my expertise in TypeScript, HTML, SCSS, Angular, and design patterns to develop Poly Dessin, a web application for drawing shapes. Working with my team, we created a database and tested all functionalities.",
+      "git_url": null,
+      "name": "Web drawing application"
+    },
+    {
+      "description": "I designed and assembled a robot using my knowledge of C++, Linux, and object-oriented programming. I studied the components of the robot, including the motherboard, expansion board, and Atmega324, and programmed the processor and H-bridge to keep the robot running. I then presented the project, the methods used and the different steps to a panel of judges.",
+      "git_url": null,
+      "name": "Design and Realization of an Autonomous Robot"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Developed and deployed the Linux Cluster Monitoring Agent to efficiently collect and analyze real-time data on hardware and resource usage of nodes in a cluster.Utilized Bash and SQL scripting to gather relevant system data and store it in a PostgreSQL database for further analysis and use by the cluster administration team.Provided valuable insights to the team to optimize system efficiency and productivity by identifying potential issues and bottlenecks.Demonstrated proficiency in technologies such as Docker, IntelliJ IDEA, and crontab to automate processes and ensure scalability for large clusters.Contributed to the successful management and optimization of the cluster by leveraging the Linux Cluster Monitoring Agent's capabilities.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Ibrahim Fradj",
+  "others": [
+    {
+      "bullets": [
+        "Udacity Machine Learning (2019)"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Winner"
+      ],
+      "title": "Awards"
+    },
+    {
+      "bullets": [
+        "Soccer player",
+        "Competitive gaming",
+        "Read books"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
+      "duration": "2023-present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "ERICSSON",
+      "description": "I worked as a developer and Scrum master for an open-source project, Theia Trace Extension, with a team of six engineers. I gained hands-on experience with Java, Python, and TypeScript while overseeing progress and coordinating efforts across several projects during four sprints. I resolved 15 issues in Theia Trace Extension, performed manual testing and code reviews, and improved user experience. I participated in meetings with international colleagues and clients and analyzed team performance to provide recommendations for improvement based on the St. Charles and Mongeau model.",
+      "duration": "2021",
+      "title": "Intern Developer"
+    },
+    {
+      "company": "ORSIMA",
+      "description": "I designed and developed an application to manage training within the company, including creating a database, scheduling sessions, and using UML design patterns. I developed the client and server side, ensuring quality and proper functioning of the connected website.",
+      "duration": "2020",
+      "title": "Full Stack Intern"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "C/C++",
+      "IntelliJ",
+      "MVC Design Pattern",
+      "Docker",
+      "Jira",
+      "Visual Studio Code",
+      "Angular",
+      "React Native"
+    ],
+    "familiar": [
+      "NodeJS",
+      "MongoDB",
+      "Jira",
+      "Computer Networks",
+      "Android Studio",
+      "Verilog HDL",
+      "HTML",
+      "LaTex",
+      "nml",
+      "R"
+    ],
+    "proficient": [
+      "Java",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git",
+      "Python",
+      "TypeScript/javascript",
+      "Algorithms and Data Structures"
+    ]
+  },
+  "summary": "I have a degree in Computer Engineering from Polytechnique Montreal, with a focus on management tools. During my studies, I worked on various projects in web development and embedded systems. I had the opportunity to complete two internships, one as a developer and Scrum Master at Ericsson, and the other as a full-stack developer at Orsima. I discovered my passion for programming during my studies and was amazed by how code could bring ideas to life and solve real problems.What excites me about the software industry is its constant evolution to meet changing user and business needs. I'm drawn to the industry because of the opportunity to create innovative solutions that can improve people's lives and solve complex problems. I'm a strong advocate for online learning and continuously take courses and tutorials to improve my technical skills and stay up-to-date with current trends."
+}
