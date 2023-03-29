@@ -15,7 +15,7 @@ I have a degree in Computer Engineering from Polytechnique Montreal, with a focu
 Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-miharbii](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-miharbii)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-miharbii/tree/master/linux_sql)]: Not Started
+**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-miharbii/tree/master/linux_sql)]: Developed and deployed the Linux Cluster Monitoring Agent to efficiently collect and analyze real-time data on hardware and resource usage of nodes in a cluster.Utilized Bash and SQL scripting to gather relevant system data and store it in a PostgreSQL database for further analysis and use by the cluster administration team.Provided valuable insights to the team to optimize system efficiency and productivity by identifying potential issues and bottlenecks.Demonstrated proficiency in technologies such as Docker, IntelliJ IDEA, and crontab to automate processes and ensure scalability for large clusters.Contributed to the successful management and optimization of the cluster by leveraging the Linux Cluster Monitoring Agent's capabilities.
 
 **Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-miharbii/tree/master/core_java)]:
       

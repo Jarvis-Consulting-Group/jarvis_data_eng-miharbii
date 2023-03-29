@@ -35,7 +35,7 @@
   ],
   "jarvis_projects": [
     {
-      "description": "",
+      "description": "Developed and deployed the Linux Cluster Monitoring Agent to efficiently collect and analyze real-time data on hardware and resource usage of nodes in a cluster.Utilized Bash and SQL scripting to gather relevant system data and store it in a PostgreSQL database for further analysis and use by the cluster administration team.Provided valuable insights to the team to optimize system efficiency and productivity by identifying potential issues and bottlenecks.Demonstrated proficiency in technologies such as Docker, IntelliJ IDEA, and crontab to automate processes and ensure scalability for large clusters.Contributed to the successful management and optimization of the cluster by leveraging the Linux Cluster Monitoring Agent's capabilities.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     },
