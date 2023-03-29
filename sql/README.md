@@ -9,6 +9,7 @@ By completing this learning project, individuals can improve their proficiency i
 ##### Table Setup (DDL)
 
 ###### write SQL DDL statements to create the following tables
+![Untitled](./DDL_image.png)
 ```
 CREATE TABLE cd.facilities
     (
